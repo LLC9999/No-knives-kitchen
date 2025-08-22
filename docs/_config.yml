@@ -13,3 +13,5 @@ header_pages:
   - grounding.md
   - about.md
   - privacy.md
+sass:
+  style: compressed
