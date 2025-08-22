@@ -1,3 +1,7 @@
+---
+layout: page
+title: Recipes
+---
 # All Recipes (Knife-Free)
 
 > Serves 4 unless noted. All methods avoid knives (use scissors, peeler, grater, dough scraper).  
