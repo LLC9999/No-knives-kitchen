@@ -1,4 +1,6 @@
-# Aids & Adaptations (No-Knives Kitchen)
+---
+layout: page
+title: Aids & Adaptions
 
 ## Tools I rely on
 - **Round-tip kitchen scissors** – herbs, spring onions, cooked chicken, snipping tinned tomatoes.  
