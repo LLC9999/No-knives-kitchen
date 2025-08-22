@@ -58,3 +58,5 @@ Freezer: one drawer is enough — frozen veg, some bread/flatbreads, cookie doug
 
 ## Recipes
 All recipes with knife-free methods and storage notes live here: **[docs/recipes.md](recipes.md)**.
+
+google-site-verification: google475853834cf33771.html
