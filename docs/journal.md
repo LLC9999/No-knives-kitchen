@@ -7,7 +7,9 @@ _By Louise_
 ## Foreword
 Cooking wasn’t always hard for me, but since having Harry in 2016 my OCD and intrusive thoughts have made the kitchen feel overwhelming. The biggest trigger is knives and blades, so we don’t keep them in the house. For a while I thought that meant I couldn’t cook. Over time I’ve adapted: round-tip scissors, a dough scraper, graters and peelers, a steamer and an air fryer, and recipes broken into small steps. Cooking with Harry — or “alongside” people virtually — helps keep intrusive thoughts in check.
 
-This journal isn’t about fine dining. It’s about safe, repeatable routines that let me feed my family on a budget — without knives.
+Welcome to my knife-free cooking journal. It’s about simple, budget-friendly meals and the adaptations that help me feel safer in the kitchen.
+
+This isn’t a journal about fancy dishes. It’s about my journey to create safe, repeatable routines that help me feel more comfortable and confident in the kitchen.
 
 ## Eating for my wellbeing
 After my hysterectomy in 2021 (both ovaries removed), within a week I noticed big swings in temperature regulation and mood. I take oestrogen and vitamin D and I pay attention to bone health: plenty of dairy alongside beans, lentils, nuts, seeds and veg. Menopause symptoms and mental health feed each other; regular, simple meals help steady things. I’ve more or less stopped drinking: even half a glass brings on a hot sweat, and hangovers are monstrous on antipsychotics — a couple of drinks can wipe out days.
