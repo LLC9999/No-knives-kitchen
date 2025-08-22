@@ -7,8 +7,9 @@ A practical, budget-friendly cooking project for people living with OCD, knife a
 - **What’s inside:** Adaptations & equipment, full recipes, two-week rotating meal plan, shopping notes, and a printable handout for services (e.g., Alexandra House).
 
 ## Quick links
-- 👉 **Full Journal:** [`docs/journal.md`](docs/journal.md)  
-- 🧾 **Printable Handout (short):** [`handouts/no-knives-handout.md`](handouts/no-knives-handout.md)
+- 👉 **Full Journal:** [docs/journal.md](docs/journal.md)  
+- 🍽️ **All Recipes:** [docs/recipes.md](docs/recipes.md)  
+- 🧰 **Aids & Adaptations:** [docs/aids-and-adaptations.md](docs/aids-and-adaptations.md)
 
 ## License
 MIT License
