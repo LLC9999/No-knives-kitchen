@@ -10,7 +10,7 @@ Cooking wasn’t always hard for me, but since having Harry in 2016 my OCD and i
 This journal isn’t about fine dining. It’s about safe, repeatable routines that let me feed my family on a budget — without knives.
 
 ## Eating for my wellbeing
-After my hysterectomy in 2021 (both ovaries removed), within a week I noticed big swings in temperature regulation and mood. I take oestrogen and vitamin D, and I pay attention to bone health: plenty of dairy alongside beans, lentils, nuts, seeds and veg. Menopause symptoms and mental health feed each other; regular, simple meals help steady things. I’ve more or less stopped drinking: even half a glass brings on a hot sweat, and hangovers are monstrous on antipsychotics — a couple of drinks can wipe out days.
+After my hysterectomy in 2021 (both ovaries removed), within a week I noticed big swings in temperature regulation and mood. I take oestrogen and vitamin D and I pay attention to bone health: plenty of dairy alongside beans, lentils, nuts, seeds and veg. Menopause symptoms and mental health feed each other; regular, simple meals help steady things. I’ve more or less stopped drinking: even half a glass brings on a hot sweat, and hangovers are monstrous on antipsychotics — a couple of drinks can wipe out days.
 
 ## Kitchen essentials & adaptations (overview)
 - **Scissors** (round-tip), **dough scraper**, **box grater**, **safety peeler**  
