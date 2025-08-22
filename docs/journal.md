@@ -7,8 +7,6 @@ _By Louise_
 ## Foreword
 Cooking wasn’t always hard for me, but since having Harry in 2016 my OCD and intrusive thoughts have made the kitchen feel overwhelming. The biggest trigger is knives and blades, so we don’t keep them in the house. For a while I thought that meant I couldn’t cook. Over time I’ve adapted: round-tip scissors, a dough scraper, graters and peelers, a steamer and an air fryer, and recipes broken into small steps. Cooking with Harry — or “alongside” people virtually — helps keep intrusive thoughts in check.
 
-Welcome to my knife-free cooking journal. It’s about simple, budget-friendly meals and the adaptations that help me feel safer in the kitchen.
-
 This isn’t a journal about fancy dishes. It’s about my journey to create safe, repeatable routines that help me feel more comfortable and confident in the kitchen.
 
 ## Eating for my wellbeing
