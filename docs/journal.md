@@ -1,3 +1,7 @@
+---
+layout: page
+title: Journal
+---
 # No-Knives Cooking Journal
 _By Louise_
 
