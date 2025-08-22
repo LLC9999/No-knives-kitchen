@@ -4,7 +4,7 @@ A practical, budget-friendly cooking project for people living with OCD, knife a
 
 - **Author:** Louise  
 - **Aim:** Feel more comfortable in the kitchen and, with support, prepare food for family — without knives.  
-- **What’s inside:** Adaptations & equipment, full recipes, two-week rotating meal plan, shopping notes, and a printable handout for service.
+- **What’s inside:** Adaptations & equipment, full recipes, two-week rotating meal plan, shopping notes, and a printable handout for services.
 
 ## Quick links
 - 👉 **Full Journal:** [docs/journal.md](docs/journal.md)  
