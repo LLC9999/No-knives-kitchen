@@ -1,0 +1,13 @@
+body {
+  background-color: #fffdf7; /* warm cream background */
+}
+
+h1, h2, h3 {
+  color: #444444; /* softer heading colour */
+}
+
+.site-title, .page-link {
+  color: #c97e2a; /* sunflower gold for nav + title */
+}
+sass:
+  style: compressed
