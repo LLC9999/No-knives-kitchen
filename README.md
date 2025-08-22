@@ -23,25 +23,3 @@ copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
 
-# macOS cruft
-.DS_Store
-
-# Office temp files
-~$*.docx
-*.tmp
-
-# Node / editor junk
-node_modules/
-dist/
-coverage/
-
-# Python venv (if you experiment)
-venv/
-
-git init
-git add .
-git commit -m "Initial commit of No Knives Cooking Journal"
-
-git init
-git add .
-git commit -m "Initial commit of No Knives Cooking Journal"
