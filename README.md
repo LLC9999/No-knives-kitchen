@@ -11,4 +11,37 @@ A practical, budget-friendly cooking project for people living with OCD, knife a
 - 🧾 **Printable Handout (short):** [`handouts/no-knives-handout.md`](handouts/no-knives-handout.md)
 
 ## License
-MIT — see `LICENSE`.
+MIT License
+
+Copyright (c) 2025 Louise
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+
+# macOS cruft
+.DS_Store
+
+# Office temp files
+~$*.docx
+*.tmp
+
+# Node / editor junk
+node_modules/
+dist/
+coverage/
+
+# Python venv (if you experiment)
+venv/
+
+git init
+git add .
+git commit -m "Initial commit of No Knives Cooking Journal"
+
+git init
+git add .
+git commit -m "Initial commit of No Knives Cooking Journal"
