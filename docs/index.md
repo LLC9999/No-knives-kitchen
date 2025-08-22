@@ -5,6 +5,8 @@ title: No-Knives Cooking
 
 Welcome to my knife-free cooking journal. It’s about simple, budget-friendly meals and the adaptations that help me feel safer in the kitchen.
 
+![Sunflowers](assets/sunflowers.jpg)
+
 ### Quick links
 - ✍️ [Journal](journal.md)
 - 🍽️ [Recipes](recipes.md)
