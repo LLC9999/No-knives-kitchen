@@ -1,5 +1,15 @@
-# No-Knives Cooking
+---
+layout: home
+title: No-Knives Cooking
+---
+
+Welcome to my knife-free cooking journal. It’s about simple, budget-friendly meals and the adaptations that help me feel safer in the kitchen.
+
+### Quick links
 - ✍️ [Journal](journal.md)
 - 🍽️ [Recipes](recipes.md)
-- 🧰 [Aids & adaptations](aids-and-adaptations.md)
-<meta name="google-site-verification" content="C7n-hoY0nGd8xznfy6cze65v7CGd1inAclQSxw8m-_Q" />
+- 🧰 [Aids & Adaptations](aids-and-adaptations.md)
+- 🧩 [About OCD](ocd.md)
+- 💭 [Intrusive Thoughts](intrusive-thoughts.md)
+- 🌱 [Grounding Techniques](grounding.md)
+- 👋 [About Me](about.md)
