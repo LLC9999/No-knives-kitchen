@@ -3,6 +3,10 @@ layout: page
 title: Support & Urgent Help
 ---
 
+⚠️ **Trigger Warning**
+
+This page talks about mental health and intrusive thoughts. Please read with care and step away if you need to. If you are in crisis or require support, please utilise the contact list below.
+
 > This site is not medical advice. If you are in danger or cannot keep yourself safe, please seek urgent help now.
 
 ## If it's an emergency
