@@ -2,17 +2,15 @@ title: No-Knives Cooking
 description: Knife-free cooking, adaptations, and gentle routines.
 theme: minima
 
-# Show these pages as top navigation
+# Pages to show in the top navigation
 header_pages:
   - index.md
   - journal.md
   - recipes.md
   - aids-and-adaptations.md
-  - support.md
   - ocd.md
   - intrusive-thoughts.md
   - grounding.md
   - about.md
   - privacy.md
-sass:
-  style: compressed
+  - support.md
