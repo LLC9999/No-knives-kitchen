@@ -3,18 +3,14 @@ layout: page
 title: Privacy
 ---
 
-This site is written from my own lived experience of OCD, intrusive thoughts, and recovery.  
+# Privacy
 
-To protect my mental health, I have chosen to keep this project **anonymous**.  
-- I am not on social media.  
-- I don’t share personal identifiers beyond what I choose to write here.  
-- Everything shared is about my journey and the adaptations that help me, not about anyone else’s private lives.  
+This site is written from my personal experience.  
+I have chosen to remain anonymous to protect my mental health.  
 
-Thank you for respecting this choice. It allows me to share openly while still looking after my own wellbeing.  
+- I am **not on social media**, and I do not share personal contact details.  
+- No personal data is collected by this site.  
+- All information shared here is for **self-help, peer support and ideas only** – not medical advice.  
 
-If you are struggling yourself, please remember this site is not medical advice.  
-Support is available:  
-- **999** — in an emergency  
-- **111** — for urgent medical help  
-- **Samaritans** — 116 123 (free, 24/7)  
-- Or your GP for mental health support  
+Thank you for respecting this choice.  
+If you need help, please visit the [Support & Urgent Help](support.md) page.
