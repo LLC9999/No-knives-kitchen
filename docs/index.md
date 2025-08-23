@@ -19,5 +19,3 @@ This isn’t a journal about fancy dishes. It’s about my journey to create saf
 - 👋 [About Me](about.md)
 - 🛡️ [Privacy](privacy.md)
 - 🆘 [Support & Urgent Help](support.md)
-
-![Sunflowers](assets/699A3E19-4EFE-4EBC-AA7D-209D0F7569A5.png)
