@@ -11,6 +11,7 @@ Welcome to my knife-free cooking journal. It’s about simple, budget-friendly m
 - ✍️ [Journal](journal.md)
 - 🍽️ [Recipes](recipes.md)
 - 🧰 [Aids & Adaptations](aids-and-adaptations.md)
+-    [Support.md]
 - 🧩 [About OCD](ocd.md)
 - 💭 [Intrusive Thoughts](intrusive-thoughts.md)
 - 🌱 [Grounding Techniques](grounding.md)
