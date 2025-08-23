@@ -2,7 +2,19 @@
 layout: page
 title: Journal
 ---
-_By Louise_
+_By Louise-
+
+---
+layout: page
+title: Journal
+---
+
+⚠️ **Trigger Warning**
+
+This page talks about mental health and intrusive thoughts. Please read with care and step away if you need to. If you are in crisis, see the [Support page](support.md) for urgent contacts.
+
+Here’s the start of my journal...
+
 
 ## Foreword
 Cooking wasn’t always hard for me, but since having Harry in 2016 my OCD and intrusive thoughts have made the kitchen feel overwhelming. The biggest trigger is knives and blades, so we don’t keep them in the house. For a while I thought that meant I couldn’t cook. Over time I’ve adapted: round-tip scissors, a dough scraper, graters and peelers, a steamer and an air fryer, and recipes broken into small steps. Cooking with Harry — or “alongside” people virtually — helps keep intrusive thoughts in check.
