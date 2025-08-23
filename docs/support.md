@@ -3,33 +3,44 @@ layout: page
 title: Support & Urgent Help
 ---
 
-⚠️ **Trigger Warning**
+# Support & Urgent Help
 
-This page talks about mental health and intrusive thoughts. Please read with care and step away if you need to. If you are in crisis or require support, please utilise the contact list below.
-
-> This site is not medical advice. If you are in danger or cannot keep yourself safe, please seek urgent help now.
-
-## If it's an emergency
-- **Call 999** or go to **A&E** now.
-
-## If you need urgent mental health help
-- **NHS 111** — call 111 or use NHS 111 online.
-- Your mental health matters as much as your physical health. You’re not wasting anyone’s time.
-
-## UK helplines & resources
-- **Samaritans** — 116 123 (free, 24/7): https://www.samaritans.org
-- **NHS: Help for suicidal thoughts**: https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/
-- **NHS: Access mental health services**: https://www.nhs.uk/mental-health/
-- **Shout** (24/7 text support): https://giveusashout.org
-- **Silence of Suicide**: https://sossilenceofsuicide.org
-- **Mind: Mental health helplines**: https://www.mind.org.uk/information-support/guides-to-support-and-services/seeking-help-for-a-mental-health-problem/mental-health-helplines/
-- **Rethink: Suicidal thoughts — how to cope**: https://www.rethink.org/advice-and-information/about-mental-illness/mental-health-symptoms/suicidal-thoughts-how-to-
-- **Grassroots “Stay Alive” App**: https://prevent-suicide.org.uk/stay-alive-app-grassroots-suicide-prevention/
-
-> If you’re outside the UK, please check your country’s emergency number and local helplines.
+This site shares my personal experience, but it is **not medical advice**.  
+If you are struggling, please know support is available.
 
 ---
-**Immediate self-care ideas (while you reach out)**
-- Sit with someone you trust or call a helpline above.
-- Breathe slowly; have water; change rooms or step into fresh air.
-- Reduce risks around you; keep yourself as safe as you can.
+
+## 🚨 If you need urgent help
+- If you or someone else is in immediate danger, **call 999** or go to A&E now.
+- If you need urgent help for your mental health, get help from **NHS 111 online** or call **111**.
+
+---
+
+## NHS Mental Health Services
+Your mental health is as important as your physical health.  
+Find out more here: [NHS mental health services](https://www.nhs.uk/mental-health/).
+
+---
+
+## Helplines and Resources
+- [Samaritans](https://www.samaritans.org) – Free, confidential 24/7 support.  
+- [Give Us A Shout](https://giveusashout.org) – Text support service.  
+- [Silence of Suicide](https://sossilenceofsuicide.org) – Support and community.  
+- [Mind: Mental Health Helplines](https://www.mind.org.uk/information-support/guides-to-support-and-services/seeking-help-for-a-mental-health-problem/mental-health-helplines/)  
+
+---
+
+## OCD-Specific Support
+- [OCD Action](https://ocdaction.org.uk)  
+- [OCD-UK](https://www.ocduk.org)  
+- [Mind: About OCD](https://www.mind.org.uk/information-support/types-of-mental-health-problems/obsessive-compulsive-disorder-ocd/about-ocd/)  
+
+---
+
+## Safety Apps
+- [Stay Alive App](https://prevent-suicide.org.uk/stay-alive-app-grassroots-suicide-prevention/) – Free, practical tools for crisis moments.
+
+---
+
+If you are struggling to stay safe, please use these resources or contact your GP.  
+You do **not** have to go through this alone.
